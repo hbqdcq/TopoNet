@@ -30,7 +30,3 @@ TopoNet/
 ├── test.py                # Evaluation and inference script
 ├── requirements.txt       # Environment dependencies
 └── README.md
-
-For any questions, please contact Nan Gao (gaonan24@163.com).
-
-This code is directly related to the manuscript currently under submission to The Visual Computer. We encourage readers to cite the relevant manuscript.
